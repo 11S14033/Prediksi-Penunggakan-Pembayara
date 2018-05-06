@@ -1,2 +1,2 @@
-# Prediksi-Penunggakan-Pembayara
-Melakukan prediksi terhadap User yang mengunggak pembayaran
+# Prediksi-Penunggakan-Pembayaran
+Melakukan prediksi terhadap User yang melakukan penunggakan pembayaran
